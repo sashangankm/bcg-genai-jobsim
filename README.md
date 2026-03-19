@@ -8,7 +8,7 @@ The program simulated real-world consulting scenarios where I acted as a Junior 
 
 ## 📂 Tasks Completed
 
-### [Task 1 – Data Extraction and Initial Analysis](https://github.com/sashangankm/bcg-genai-job-simulation/tree/main/Task-01-Data-Extraction)
+### [Task 1 – Data Extraction and Initial Analysis](https://github.com/sashangankm/bcg-genai-jobsim/tree/main/Task-01-Data-Extraction)
 
 * Extracted key financial data and performance metrics from standard 10-K financial documents.
 * Conducted foundational analysis to identify significant financial trends and indicators.
