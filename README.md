@@ -14,7 +14,7 @@ The program simulated real-world consulting scenarios where I acted as a Junior 
 * Conducted foundational analysis to identify significant financial trends and indicators.
 * Cleaned, formatted, and processed the extracted data to prepare it for integration with an AI model.
 
-### [Task 2 – Developing an AI-Powered Financial Chatbot](https://github.com/sashangankm/bcg-genai-job-simulation/tree/main/Task-02-Financial-Chatbot)
+### [Task 2 – Developing an AI-Powered Financial Chatbot](https://github.com/sashangankm/bcg-genai-jobsim/tree/main/Task-02-Financial-Chatbot)
 
 * Developed an AI chatbot leveraging Natural Language Processing (NLP) principles to analyze financial data.
 * Integrated the previously extracted and cleaned 10-K data into the chatbot system.
